@@ -15,7 +15,7 @@
 ## Autor
 Luiz Felipe Guimarães de Freitas
 
-## Introdução 
+## Introdução do Desafio
 2520 é o menor número que pode ser dividido por cada um dos números de 1 a 10 sem
 qualquer resto. Qual é o menor número positivo que é divisível por todos os números de 1
 a 20?
@@ -23,4 +23,4 @@ a 20?
 ## Tecnologias Utilizadas 
 
 * Linguagem C#
-* Formato Console
+* Formato: Console
