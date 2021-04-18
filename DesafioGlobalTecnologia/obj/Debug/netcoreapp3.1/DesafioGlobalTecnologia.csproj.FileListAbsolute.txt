@@ -1,0 +1,13 @@
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.csprojAssemblyReference.cache
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.AssemblyInfoInputs.cache
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.AssemblyInfo.cs
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.csproj.CoreCompileInputs.cache
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\bin\Debug\netcoreapp3.1\DesafioGlobalTecnologia.exe
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\bin\Debug\netcoreapp3.1\DesafioGlobalTecnologia.deps.json
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\bin\Debug\netcoreapp3.1\DesafioGlobalTecnologia.runtimeconfig.json
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\bin\Debug\netcoreapp3.1\DesafioGlobalTecnologia.runtimeconfig.dev.json
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\bin\Debug\netcoreapp3.1\DesafioGlobalTecnologia.dll
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\bin\Debug\netcoreapp3.1\DesafioGlobalTecnologia.pdb
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.dll
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.pdb
+C:\Users\feeli\source\repos\DesafioGlobalTecnologia\DesafioGlobalTecnologia\obj\Debug\netcoreapp3.1\DesafioGlobalTecnologia.genruntimeconfig.cache
